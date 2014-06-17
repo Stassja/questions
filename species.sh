@@ -1,3 +1,5 @@
+#this is a comment to practice using git
+
 #takes files of lists of dates/animals and sorts them and returns only the
 #unique animals
 
